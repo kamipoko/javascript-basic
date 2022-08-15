@@ -1,0 +1,9 @@
+1. Number
+2. Number
+3. String
+4. String
+5. Boolean
+6. Boolean
+7. Boolean
+8. Object
+9. Object
